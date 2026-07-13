@@ -1,0 +1,14 @@
+var a = 10;
+console.log(a);
+var $ = 20;
+console.log($);
+var _ = 30;
+console.log(_); 
+var pp = 40;
+console.log(pp);    
+// var 45 = 45;
+var  _ = 50;
+var name = "John";
+var Name = "Doe";
+console.log(name);
+console.log(Name);  

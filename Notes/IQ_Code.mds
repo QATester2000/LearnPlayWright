@@ -1,0 +1,42 @@
+# VS Code Commands & Shortcuts
+
+## Comment Shortcuts
+| Action | Windows/Linux | macOS |
+|--------|--------------|-------|
+| Toggle single-line comment | `Ctrl + /` | `Cmd + /` |
+| Toggle block comment | `Shift + Alt + A` | `Shift + Option + A` |
+| Add JSDoc comment (above a function) | Type `/**` and press `Enter` | Type `/**` and press `Enter` |
+
+## Common Editing Shortcuts
+| Action | Shortcut |
+|--------|----------|
+| Copy line up/down | `Shift + Alt + ↑/↓` |
+| Move line up/down | `Alt + ↑/↓` |
+| Duplicate selection | `Ctrl + D` |
+| Find & Replace | `Ctrl + H` |
+| Format document | `Shift + Alt + F` |
+| Indent / Outdent line | `Ctrl + ]` / `Ctrl + [` |
+| Toggle word wrap | `Alt + Z` |
+| Multi-cursor | `Ctrl + Alt + ↑/↓` |
+| Select all occurrences | `Ctrl + Shift + L` |
+| Go to line | `Ctrl + G` |
+| Open command palette | `Ctrl + Shift + P` |
+| Open file | `Ctrl + P` |
+| Toggle sidebar | `Ctrl + B` |
+| Split editor | `Ctrl + \` |
+| Close editor tab | `Ctrl + W` |
+
+## Comment Types in JavaScript (from Comments.js)
+```js
+// Single-line comment — used for short explanations
+
+/*
+   Multi-line comment — used for longer explanations
+   spanning multiple lines
+*/
+
+/**
+ * JSDoc comment — used to document functions,
+ * parameters, and return values
+ */
+```
