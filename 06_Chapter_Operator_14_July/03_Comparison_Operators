@@ -1,0 +1,28 @@
+// Comparison Operators in JavaScript
+let num1 = 10;
+let num2 = 20;  
+// == Equal to
+// === Strict Equal to
+// != Not Equal to  
+
+// !== Strict Not Equal to
+// =   
+let eatery1 = 12;
+let eatery2 = "12";  
+console.log(eatery1 == eatery2);
+console.log(eatery1 === eatery2);
+//why on line number 12 result is false because the value of eatery1 is not equal to eatery2 and also the data type of both variables is string.
+// but == is loose comaparison operator which only checks the value of both variables and not the data type.
+// so on line number 13, value is almost same but 
+console.log(typeof eatery1);
+console.log(typeof eatery2);
+let num3 = 10;
+let num4 = 10;  
+console.log(3 == 4 );
+console.log(3 != 4 );
+console.log(3 === 4 );
+console.log(3 !== 4 );
+
+
+
+
