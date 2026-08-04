@@ -1,0 +1,6 @@
+let data = ("5 5 5");
+let splitdata = data.split(" ");
+for (i = 0; i < 3; i++)
+{
+    console.log(splitdata[i]);
+}
