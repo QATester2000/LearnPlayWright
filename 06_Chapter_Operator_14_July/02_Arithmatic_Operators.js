@@ -15,6 +15,5 @@ console.log(sub ** sum);
 console.log(a += 5); // a = a + 5   
 console.log(a -= 5);   // a = a - 5
  x += 5; // x = x + 5
- 
 console.log(a *= 5);
 console.log(a /= 5);    

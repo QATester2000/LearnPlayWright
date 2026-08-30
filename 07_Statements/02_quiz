@@ -1,6 +1,17 @@
 let data = ("5 5 5");
+let arraylength = data.length
 let splitdata = data.split(" ");
-for (i = 0; i < 3; i++)
+
+let sCount = 0;
+
+
+for (i = 0; i = arraylength; i++)
 {
-    console.log(splitdata[i]);
-}
+  
+ if (splitdata[i]  = splitdata[i+1])
+    
+    {
+        
+    }
+
+    }

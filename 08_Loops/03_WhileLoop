@@ -27,5 +27,5 @@ while(true)
                 break;
             }
             console.log(myage);
-            myage++;
+            
     }

@@ -12,3 +12,4 @@ var name = "John";
 var Name = "Doe";
 console.log(name);
 console.log(Name);  
+var myvariab_yourvariable  = 10;    
